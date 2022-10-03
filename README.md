@@ -1,6 +1,6 @@
 ### Hi developer <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e473y3wmud9tjxqty0ha31sb225l02n4s59rvbkv23x&rid=giphy.gif&ct=s" width="30px">
 
-I'm a <p><b>Software Engineer.</b></p>
+I'm a<b>Software Engineer.</b>
 <!--
 **DavronDave/DavronDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
