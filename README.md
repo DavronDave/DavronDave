@@ -1,5 +1,4 @@
-### Hi developer <img src="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry"> <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
-
+### Hi developer <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e473y3wmud9tjxqty0ha31sb225l02n4s59rvbkv23x&rid=giphy.gif&ct=s" width="30px">
 <!--
 **DavronDave/DavronDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
